@@ -140,4 +140,5 @@ cython_debug/
 .DS_Store
 
 media/
-messages.json
+files/
+links.json
